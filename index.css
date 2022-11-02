@@ -1,0 +1,107 @@
+h1{
+
+    color: rgb(64, 13, 112);
+
+    text-decoration: underline;
+
+ 
+
+}
+
+ 
+
+html{
+
+    background-color: rgb(176, 236, 246);
+
+}
+
+ 
+
+body{
+
+ 
+
+    background-color:hsl(136, 6%, 63%) (0, 255, 247);
+
+    border: 10pt;
+
+    margin: 70pt;
+
+    margin-bottom: 100pt;
+
+    margin-top: 0pt;
+
+    border-style: solid;
+
+    padding: 20;
+
+    text-align: center;
+
+    white-space: pre;
+
+    align-items: center;
+
+        
+
+ 
+
+   
+
+}
+
+ 
+
+button{
+
+ 
+
+            color: rgb(197, 117, 12);
+
+}
+
+ 
+
+label{
+
+ 
+
+            color: rgb(9, 114, 24);
+
+}
+
+ 
+
+#results{
+
+            color: rgb(200, 62, 115);
+
+            text-size-adjust: 50;
+
+            font-size: large;
+
+            text-decoration: underline;
+
+}
+
+em{
+
+color: rgb(224, 39, 153);
+
+}
+
+ 
+
+.header img {
+
+    float: left;
+
+    margin-left: 0;
+
+    border-radius: 50%;
+
+    width: 80px;
+
+    height: 80px;
+
+}
